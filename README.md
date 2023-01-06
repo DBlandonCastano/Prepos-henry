@@ -1,2 +1,1 @@
-# Prepos-henry
-prueba modulo 2 henry prepost
+este proyecto me permitio entender como crear un repositorio desde github y clonarlo en mi equipo
